@@ -1,5 +1,8 @@
 # Blackjack-Program
 
+
+<img width="700" alt="Draw a card " src="https://user-images.githubusercontent.com/69172048/108911626-81336b00-75f5-11eb-8a15-3215e5e949a0.png">
+
 ## Assignment instructions
 Create a Blackjack (21) game. 
 
